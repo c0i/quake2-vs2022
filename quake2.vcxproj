@@ -495,7 +495,6 @@
     </ProjectReference>
     <ProjectReference Include="ref_gl\ref_gl.vcxproj">
       <Project>{75f130bc-7edb-45a0-a101-4b2905081e10}</Project>
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
